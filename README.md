@@ -1,3 +1,5 @@
-# Travelling-Salesman-with-A star
+# Travelling-Salesman
 
-The heuristic used is minimum spanning tree 
+TSP is implemented with A star algorithm. The heuristic used is minimum spanning tree 
+
+TSP also implemented with hill climb, random restart and simmulated annealing
